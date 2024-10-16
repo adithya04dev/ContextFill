@@ -1,0 +1,7 @@
+langchain-google-genai
+langchain-openai
+streamlit
+langchain-mistralai
+langchain
+selenium
+langchain-groq

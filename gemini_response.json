@@ -1,0 +1,91 @@
+[
+    {
+        "question": "<span class=\"M7eMe\">Are you a new or existing customer?</span>",
+        "answer": [
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac OvPDhc OIC90c\">I am a new customer</span>"
+            },
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac OvPDhc OIC90c\">I am an existing customer</span>"
+            }
+        ]
+    },
+    {
+        "question": "<span class=\"M7eMe\">What are the item(s) you would like to order?</span>",
+        "answer": [
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Pen</span>"
+            },
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Eraser</span>"
+            },
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Notebook</span>"
+            },
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Sharpener</span>"
+            }
+        ]
+    },
+    {
+        "question": "<span class=\"M7eMe\">What color(s) would you like to order?</span>",
+        "answer": [
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Red</span>"
+            },
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Blue</span>"
+            },
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Green</span>"
+            }
+        ]
+    },
+    {
+        "question": "<span class=\"M7eMe\">How many units would you like to order?</span>",
+        "answer": [
+            {
+                "option": "<div class=\"Zki2Ve\" dir=\"auto\">1</div>"
+            },
+            {
+                "option": "<div class=\"Zki2Ve\" dir=\"auto\">2</div>"
+            },
+            {
+                "option": "<div class=\"Zki2Ve\" dir=\"auto\">3</div>"
+            },
+            {
+                "option": "<div class=\"Zki2Ve\" dir=\"auto\">4</div>"
+            },
+            {
+                "option": "<div class=\"Zki2Ve\" dir=\"auto\">5</div>"
+            }
+        ]
+    },
+    {
+        "question": "<div class=\"meSK8 M7eMe\" role=\"heading\" aria-level=\"2\">Contact info</div>",
+        "answer": null
+    },
+    {
+        "question": "<span class=\"M7eMe\">Your name</span>",
+        "answer": "<input type=\"text\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i46\" aria-describedby=\"i47 i48\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"\">"
+    },
+    {
+        "question": "<span class=\"M7eMe\">Phone number</span>",
+        "answer": "<input type=\"text\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i50\" aria-describedby=\"i51 i52\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"\">"
+    },
+    {
+        "question": "<span class=\"M7eMe\">E-mail</span>",
+        "answer": "<input type=\"email\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i54\" aria-describedby=\"i55 i56\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"\">"
+    },
+    {
+        "question": "<span class=\"M7eMe\">Preferred contact method</span>",
+        "answer": [
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Phone</span>"
+            },
+            {
+                "option": "<span dir=\"auto\" class=\"aDTYNe snByac n5vBHf OIC90c\">Email</span>"
+            }
+        ]
+    }
+]
